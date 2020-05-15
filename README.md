@@ -1,14 +1,26 @@
 ![Black Logo](https://github.com/abhinavkorpal/GoLang/blob/master/images/golang.png)
 <h2 align="center">golang cheat sheet</h2>
 
+<!-- PROJECT LOGO -->
+<br />
 <p align="center">
-<a href="https://travis-ci.org/python/black"><img alt="Build Status" src="https://travis-ci.org/python/black.svg?branch=master"></a>
-<a href="https://black.readthedocs.io/en/stable/?badge=stable"><img alt="Documentation Status" src="https://readthedocs.org/projects/black/badge/?version=stable"></a>
-<a href="https://coveralls.io/github/python/black?branch=master"><img alt="Coverage Status" src="https://coveralls.io/repos/github/python/black/badge.svg?branch=master"></a>
-<a href="https://github.com/python/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
+  <h1 align="center">Developer's golang ✨</h1>
+
+  <p align="center">
+    <br />
+    ·
+    <a href="https://github.com/abhinavkorpal/GoLang/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/abhinavkorpal/GoLang/issues">Request Feature</a>
+  </p>
 </p>
 
-[![GoDoc](https://godoc.org/golang.org/x/oauth2?status.svg)](https://godoc.org/golang.org/x/oauth2)
+![GitHub contributors](https://img.shields.io/github/contributors/abhinavkorpal/GoLang?color=ffcc66&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/abhinavkorpal/GoLang?color=ffcc66&style=for-the-badge)
+[![GitHub forks](https://img.shields.io/github/forks/abhinavkorpal/GoLang?style=for-the-badge)](https://github.com/abhinavkorpal/star_book/network)
+[![GitHub issues](https://img.shields.io/github/issues/abhinavkorpal/GoLang?color=ffcc66&style=for-the-badge)](https://github.com/abhinavkorpal/star_book/issues)
+[![GitHub license](https://img.shields.io/github/license/abhinavkorpal/GoLang?style=for-the-badge)](https://github.com/abhinavkorpal/Docker/blob/master/LICENSE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/abhinavkorpal?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/abhinavkorpal)
 
 
 # The Go Programming Language

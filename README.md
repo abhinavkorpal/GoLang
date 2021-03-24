@@ -29,13 +29,17 @@ Go can be used for:
 - Web based Applications
 - System Programming Languages
 - Based mostly on C, but it is influenceds by other language
-- Experience with C-style language is veru useful C, C++, and C#
+- Experience with C-style language is very useful C, C++, and C#
 
 
 Go Implements many OOP Concepts:
 - Encapsulation with types and structs.
 - Polymorphism with interfaces.
 
+Complied/Interpreted:
+- Go is compiled, statically typed languages.
+- Go tool can run files without precompiling.
+- compiled executables are OS specific.
 
 # The Go Programming Language
 

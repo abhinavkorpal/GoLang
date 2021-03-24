@@ -22,6 +22,20 @@
 [![GitHub license](https://img.shields.io/github/license/abhinavkorpal/GoLang?style=for-the-badge)](https://github.com/abhinavkorpal/Docker/blob/master/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/abhinavkorpal?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/abhinavkorpal)
 
+Developers who want to learn go.
+
+Go can be used for:
+- Simple Command Line routines
+- Web based Applications
+- System Programming Languages
+- Based mostly on C, but it is influenceds by other language
+- Experience with C-style language is veru useful C, C++, and C#
+
+
+Go Implements many OOP Concepts:
+- Encapsulation with types and structs.
+- Polymorphism with interfaces.
+
 
 # The Go Programming Language
 
